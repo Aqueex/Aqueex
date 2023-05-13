@@ -1,19 +1,21 @@
-<h1>Welcome to My Github Account!</h1>
+# 💫 Welcome to My Github Account!
 
 
-<p>
-  <a href="https://discord.com/users/406788555721932800" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/my7c5m9336fnvog5qos3xd2kk?si=5402f8c01f2e4b60" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://github.com/Aqueex" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.r10.net/profil/174479-aquex.html" target"blank_"><img src="https://img.shields.io/badge/-R10.NET-8F00FF?style=for-the-badge&labelColor=black&logo=r10&logoColor=purple"></a>
-</p>
-<h1>I Work With;</h1>
-<a href="https://nodejs.org/en/" target"blank_"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"></a>
-<a href="https://www.php.net/" target"blank_"><img src="https://img.shields.io/badge/-php-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=blue"></a>
-<a href="https://getbootstrap.com/" target"blank_"><img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=purple"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target"blank_"><img src="https://img.shields.io/badge/-csharp-green?style=for-the-badge&labelColor=black&logo=c#&logoColor=purple"></a>
-<br>
-<p>
-<h1>My Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aqueex&theme=radical&show_icons=true" width="%100" height="150px" alt="stats" />
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6Z2czmd2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azlzzx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/authwall?trk=bf&trkInfo=AQHy0vOowcociAAAAYgXHpgIQSo9plFtSSfzXqgZiyvSPeSzsgPev7NK07UcadQXcxgm2AuydHaONjwOB_4yYMB7x5hJfq55oK_V9tl1lZfCPi9A1K_s4HZjYoL74lmgkoOa1-4=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faziz-%25C3%25A7akmak-50815524a) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_Aquex_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aquuex_) [![R10](https://img.shields.io/badge/-R10.NET-8F00FF?style=for-the-badge&labelColor=black&logo=r10&logoColor=purple)](https://www.r10.net/profil/174479-aquex.html) [![Spotify](https://img.shields.io/badge/Discord-%237289DA.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/my7c5m9336fnvog5qos3xd2kk?si=5402f8c01f2e4b60)
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://camo.githubusercontent.com/971add5c6d8bcbe39cffaeab5152ab120c49264f253c45a7347d12bd9b7f76e2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d417175656578267468656d653d7261646963616c2673686f775f69636f6e733d74727565)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aqueex&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aqueex&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aqueex&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
