@@ -21,7 +21,7 @@
 [![](https://gtce.itsvg.in/api?username=_Aquex_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](![Visitor Counter]( https://anime-counter.lulushu.workers.dev/@aquex?scale=1.1&theme=naruto&length=7 ))
 
 <br>
 
