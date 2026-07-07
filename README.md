@@ -42,4 +42,4 @@
 
 ---
 
-![Visitor Counter](https://anime-counter.lulushu.workers.dev/@azizcakmk?scale=1&theme=naruto&length=3)****
+![Visitor Counter](https://anime-counter.lulushu.workers.dev/@azizcakmk?scale=1&theme=naruto&length=3)
